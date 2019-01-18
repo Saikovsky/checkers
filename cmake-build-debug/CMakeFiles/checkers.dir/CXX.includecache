@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Programowanie/checkers/main.cpp
+ctime
+-
+cstdlib
+-
+game.hpp
+C:/Programowanie/checkers/game.hpp
+
